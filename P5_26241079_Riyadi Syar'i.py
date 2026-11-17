@@ -1,0 +1,12 @@
+nama = input("Masukkan Nama: ")
+nim = input("Masukkan Nim: ")
+a = int (input("Masukkan digit a: "))
+b = int (input("Masukkan digit b: "))
+
+print("========HASIL PERBANDINGAN========")
+print("A lebih besar dari B:", a>b)
+print("A lebih kecil dari B:", a<b)
+print("A lebih besar sama dengan B:", a>=b)
+print("A lebih kecil sama dengan B:", a<=b)
+print("A sama dengan B:", a==b)
+print("A tidak sama dengan B:", a!=b)
